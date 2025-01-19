@@ -1,0 +1,900 @@
+    1  tree
+    2  sudo snap install tree
+    3  tree --version
+    4  ls
+    5  ls -la
+    6  date
+    7  df / -h
+    8  vim
+    9  vim ./testVim.md
+   10  vim ./
+   11  vim
+   12  nano
+   13  ls
+   14  cat testic.txt
+   15  cat testik.txt
+   16  cat testik
+   17  ls a
+   18  ls -a
+   19  vim testik
+   20  cat testik
+   21  vim test.txt
+   22  cat test.txt
+   23  echo 'Hallo World'
+   24  nano test.txt
+   25  history | grep 'df'
+   26  history
+   27  cat test.txt
+   28  vim docker-copose.yml
+   29  nano docker-copose.yml
+   30  vim docker-copose.yml
+   31  vi test.txt
+   32  vim
+   33  choco install vim
+   34  sudo apt update
+   35  sudo apt install vim-gtk3
+   36  vim
+   37  ssh-kengen
+   38  sudo apt install
+   39  ssh-keygen
+   40  cd .ssh
+   41  ls
+   42  cat id_ed25519.pub
+   43  tree
+   44  history
+   45  ssh ec2-user@linux.itcareerhub.de
+   46  sudo su
+   47  cd .ssh/
+   48  ls
+   49  cat id_ed25519
+   50  cat id_25519.pub
+   51  cat id_ed25519.pub
+   52  cd known_hosts
+   53  ls -la
+   54  touch config
+   55  ls
+   56  pwd
+   57  cd .shh
+   58  cd .ssh
+   59  ls
+   60  ls
+   61  cd .ssh
+   62  ls
+   63  vim config
+   64  ssh ich
+   65  df
+   66  ssh ec2-user@linux.itcareerhub.de
+   67  cd/
+   68  cd 
+   69  ssh ec2-user@linux.itcareerhub.de
+   70  .shh ec2-user@linux.itcareerhub.de
+   71  ls
+   72  .shh
+   73  history
+   74  ssh ec2-user@linux.itcareerhub.de
+   75  cd .ssh
+   76  ssh ec2-user@linux.itcareerhub.de
+   77  ls -la
+   78  cd ..
+   79  vim config
+   80  .ssh
+   81  cd .ssh
+   82  vim config
+   83  ssh ich
+   84  env
+   85  export EVG = student
+   86  export EVG=student
+   87  env
+   88  echo $EVG
+   89  ecgo '$PATH'
+   90  echo "$PATH"
+   91  ssh ich
+   92  ls
+   93  bbtop
+   94  sudo apt install btop
+   95  btop
+   96  ssh ich
+   97  free
+   98  cat /etc/os-release
+   99  cat /proc/cpuinfo
+  100  neofetch
+  101  sudo apt install neofetch
+  102  neofetch
+  103  sudo apt update
+  104  sudo apt list --upgradable
+  105  sudo apt update
+  106  sudo apt upgrade
+  107  sudo apt update
+  108  ps -ef
+  109  head -2
+  110  ps -ef | head -2
+  111  echo "$PATH$"
+  112  top
+  113  ps aux
+  114  ps -ef
+  115  free -m
+  116  ssh ich
+  117  ls -la
+  118  chmod go+x test.txt
+  119  ls -la
+  120  chmod ugo+rw- test.txt
+  121  ls -la
+  122  chmod go+rw- test.txt
+  123  ls -la
+  124  chmod go-x test.txt
+  125  ls -la
+  126  date
+  127  ssh ich
+  128  ls -la
+  129  cd temp
+  130  cd /temp
+  131  cd /opt
+  132  ls -la
+  133  cd /tmp
+  134  ls -la
+  135  df -h
+  136  vim file.txt
+  137  ls -la
+  138  cd /
+  139  ls -la
+  140  vim /tmp/file.txt
+  141  cat /tmp/file.txt
+  142  df -h | head -n3>> /tmp/file.txt
+  143  cat /tmp/file.txt
+  144  ls -la
+  145  cd tmp
+  146  ls -la
+  147  chmod g+wx file.txt
+  148  ls -la
+  149  chmod uo- file.txt
+  150  ls -la
+  151  chmod u-o-0-0 file.txt
+  152  chmod u=---,o=--- file.txt
+  153  ls -la
+  154  touch /tmp/myfirstbashscript.sh
+  155  ls -la
+  156  chmod +x /tmp/myfirstbashscript.sh 
+  157  ls -la
+  158  export USER=YevgeniyG
+  159  ls -la
+  160  echo $USER
+  161  vim USER
+  162  vim Yevgeniy
+  163  vim myfirstbashscript.sh 
+  164  bash myfirstbashscript.sh
+  165  ./myfirstbashscript.sh 
+  166  vim myfirstbashscript.sh 
+  167  ./myfirstbashscript.sh 
+  168  cat /tmp/myfirstbashscript.sh >> /tmp//tmp/file.txt
+  169  echo /tmp/myfirstbashscript.sh >> /tmp//tmp/file.txt
+  170  echo /tmp/myfirstbashscript.sh >> /tmp/file.txt
+  171  chmod u=w file.txt
+  172  ls -la
+  173  echo /tmp/myfirstbashscript.sh >> /tmp/file.txt
+  174  cat file.txt
+  175  chmod u=rwx file.txt
+  176  ls -la
+  177  cat file.txt
+  178  history | tail >> /tmp/file.txt
+  179  cat file.txt
+  180  scp /tmp/file.txt /mnt/c/User/GT
+  181  cd/
+  182  cd /
+  183  scp /tmp/file.txt /mnt/c/User/GT
+  184  cp /tmp/file.txt /mnt/c/User/GT
+  185  cd /mnt/c/User/GT
+  186  cd /mnt
+  187  ls -la
+  188  cd c
+  189  ls -la
+  190  cd Users
+  191  ls =la
+  192  ls -la
+  193  cd GT
+  194  pwd
+  195  ls -la
+  196  cp /tmp/file.txt /mnt/c/Users/GT
+  197  ls -la
+  198  git --version
+  199  cd .ssh
+  200  ls -la
+  201  cat id_ed25519.pub 
+  202  git clone git@github.com:yevgt/ich-practice-.git
+  203  ls -la
+  204  mv ich-practice- ../
+  205  ls -la
+  206  cd ..
+  207  ls -la
+  208  pwd
+  209  cd ich-practice-
+  210  ls -la
+  211  cd git
+  212  cd .git
+  213  ls -la
+  214  tree
+  215  cd ..
+  216  git config --global user.name Y.Guta
+  217  git config --global user.email yevguta@gmail.com
+  218  cat gitconfig
+  219  cat .gitconfig
+  220  git config --list
+  221  git status
+  222  git log
+  223  cd ..
+  224  ls -la
+  225  mkdir repositories
+  226  mv ich-practice- /repositories
+  227  ls -la
+  228  mv ich-practice- /repositories/
+  229  chmod ugo=rwx ich-practice-
+  230  ls -la
+  231  mv ich-practice- /repositories/
+  232  chmod ugo=rwx repositories
+  233  mv ich-practice- /repositories/
+  234  cd /
+  235  ls -la
+  236  rm -rf ich-practice-
+  237  ls -la
+  238  cd .git
+  239  pwd
+  240  ls
+  241  ls -la
+  242  cd .
+  243  ls -la
+  244  cd ..
+  245  ls -la
+  246  cd repositories
+  247  cd .ssh
+  248  cd /
+  249  ls -la
+  250  cd home
+  251  ls -la
+  252  cd ev_gt
+  253  ls -la
+  254  mv ich-practice-/repositories
+  255  mv ich-practice-/ repositories/
+  256  ls -la
+  257  cd repositories/
+  258  ls -la
+  259  cd ich-
+  260  cd ich-practice-/
+  261  pwd
+  262  cd ..
+  263  mkdir 111124-ptm
+  264  cd 111124-ptm/
+  265  ls
+  266  ls -la
+  267  echo "first line" > "1.txt"
+  268  echo "second line" > "2.txt"
+  269  ls -la
+  270  ls
+  271  git init
+  272  ls -a
+  273  git status
+  274  git add 1.txt
+  275  git status
+  276  git commit -m "added file 1.txt"
+  277  git status
+  278  git log
+  279  git branch -M main
+  280  git status
+  281  git remove -v
+  282  git remote add origin https://github.com/yevgt/111124-ptm.git
+  283  git remove -v
+  284  git push -u origin main
+  285  git add 2.txt
+  286  git status
+  287  git commit -m "added file 2.txt"
+  288  git status
+  289  ls -la
+  290  git push origin main
+  291  git status
+  292  git add -A
+  293  git status
+  294  cat 1.txt
+  295  cat 2.txt
+  296  git remote add origin git@github.com:yevgt/111124-ptm.git
+  297  git remove -v
+  298  git remote add origin git@github.com:yevgt/111124-ptm.git
+  299  git push -u origin main
+  300  git log
+  301  git push origin main
+  302  cd ..
+  303  git clone git@github.com:yevgt/classwork.git
+  304  ls
+  305  cd classwork
+  306  git status
+  307  echo "# test" > README.md
+  308  ls
+  309  git add README.md
+  310  git status
+  311  git commit -m "first commit"
+  312  git branch -M main
+  313  git remote origin git@github.com:yevgt/classwork.git
+  314  git remote add origin git@github.com:yevgt/classwork.git
+  315  git remote remove origin
+  316  git status
+  317  git remote add origin git@github.com:yevgt/classwork.git
+  318  git push -u origin main
+  319  git log
+  320  git add -A
+  321  git status
+  322  cd ..
+  323  ls
+  324  cd 111124-ptm/
+  325  ls
+  326  git remote add origin git@github.com:yevgt/111124-ptm.git
+  327  git remove -v
+  328  git remote remove origin
+  329  git remote add origin git@github.com:yevgt/111124-ptm.git
+  330  git push -u origin main
+  331  git remote -v
+  332  cd /
+  333  ls
+  334  cd home
+  335  ls
+  336  ls ev_gt
+  337  cd rep
+  338  cd repositories
+  339  ls -la
+  340  cd ev_gt/repositories/
+  341  pwd
+  342  mkdir git_intro
+  343  ls
+  344  cd git_intro/
+  345  pwd
+  346  history
+  347  cd /mnt/c/User/GT
+  348  cd /
+  349  cd /mnt/c/User/GT
+  350  cd /mnt
+  351  cd /c/User/GT
+  352  cd c
+  353  cd User
+  354  cd Users
+  355  ls
+  356  cd GT
+  357  ls
+  358  pwd
+  359  cp /mnt/c/Users/GT/images.jpg /home/ev_gt/repositories/git_intro
+  360  cd /
+  361  cd /home/ev_gt/repositories/git_intro
+  362  ls
+  363  git add images.jpg
+  364  git init
+  365  git add images.jpg
+  366  git status
+  367  git commit -m "Added photo"
+  368  git branch -M main
+  369  git status
+  370  git remote add origin git@github.com:yevgt/git_intro.git
+  371  git status
+  372  git push -u origin main
+  373  sudo apt update
+  374  apt list
+  375  apt list --update
+  376  sudo apt update
+  377  apt list --upgradable
+  378  sudo apt install snapd
+  379  tmax
+  380  sudo install tmax
+  381  cd .git
+  382  cd /home/ev_gt
+  383  ls 
+  384  cd repositories/
+  385  ls
+  386  cd ich-practice-/
+  387  ls
+  388  ls -ls
+  389  git status
+  390  git remove -v
+  391  getent group groupname
+  392  getent group sudo
+  393  cat /etc/group
+  394  find *.txt
+  395  find /*.txt
+  396  find ./ *.txt
+  397  find README
+  398  find ./ README
+  399  watch -n5 echo 'Hallo World'
+  400  pwd
+  401  cd -la
+  402  cd /tmp
+  403  touch 281224.sh
+  404  cd -la
+  405  ls -la
+  406  vi 281224.sh 
+  407  ./281224.sh
+  408  chmod a+wx 281224.sh
+  409  ls -la
+  410  ./281224.sh
+  411  ls -la
+  412  md homework
+  413  mk home_work
+  414  mk dir home_work
+  415  mkdir home_work
+  416  ls -la
+  417  cd home_work/
+  418  touch myfirstbashscript.sh
+  419  ls -la
+  420  chmod +x myfirstbashscript.sh
+  421  chmod a+x myfirstbashscript.sh
+  422  tree
+  423  chmod +x /home_work/myfirstbashscript.sh
+  424  cd /
+  425  pwd
+  426  cd /home
+  427  ls -la
+  428  cd ev_gt/
+  429  cd/
+  430  cd /
+  431  ls -la
+  432  tree
+  433  ls -la
+  434  grep 'home_work'
+  435  pwd
+  436  cd /
+  437  ls -la
+  438  cd home
+  439  ls
+  440  cd ev_gt
+  441  ls
+  442  cd home_work/
+  443  pwd
+  444  ls -la
+  445  chmod +x /home/ev_gt/home_work/myfirstbashscript.sh
+  446  ls -la
+  447  vi myfirstbashscript.sh 
+  448  ./myfirstbashscript.sh 
+  449  vi myfirstbashscript.sh 
+  450  ./myfirstbashscript.sh 
+  451  cd /
+  452  ls
+  453  cd tmp
+  454  ls
+  455  touch myfirstbashscript.sh
+  456  pwd
+  457  ls -la
+  458  chmod +x /tmp/myfirstbashscript.sh
+  459  ls -la
+  460  vi myfirstbashscript.sh 
+  461  vim myfirstbashscript.sh 
+  462  echo hello $USER
+  463  pwd
+  464  ps -ef | grep bioset | grep -v grep | wc -l
+  465  cps -ef | grep bioset | grep -v grep | wc -l
+  466  cd /
+  467  ps -ef | grep bioset | grep -v grep | wc -l
+  468  ets/passwd
+  469  grep bioset
+  470  grep 'bioset'
+  471  ps -ef | grep bioset | grep -v grep | wc -l
+  472  grep bioset
+  473  ps -ef
+  474  ps -ef | grep bioset
+  475  ps -ef | grep bioset | grep -v grep
+  476  ls
+  477  cd tmp
+  478  ls
+  479  ls -la
+  480  ps -ef
+  481  ps -ef | grep bioset
+  482  ps -ef | grep bioset | grep -v grep | wc -l
+  483  ls -la /etc/passwd | awk '{print $1}'
+  484  ls -la /ets/passwd
+  485  cd /
+  486  ls -la
+  487  ls -la /ets/passwd
+  488  ls -la /etc/passwd
+  489  ls -la /etc/passwd | awk '{print $1}'
+  490  ps -ef | grep bioset | grep -v grep | wc -l
+  491  ls -la /etc/passwd | awk '{print $1}'
+  492  cd tmp/
+  493  ls -la
+  494  vi myfirstbashscript.sh 
+  495  ./myfirstbashscript.sh 
+  496  export EVG=student
+  497  echo$EVG
+  498  echo'$EVG'
+  499  ls -la
+  500  env
+  501  grep EVG
+  502  echo '$EVG'
+  503  echo $EVG
+  504  echo 'hallo $EVG'
+  505  echo hallo $EVG
+  506  echo $USER
+  507  vi myfirstbashscript.sh 
+  508  ./myfirstbashscript.sh 
+  509  vi myfirstbashscript.sh 
+  510  cd /
+  511  ls
+  512  export USER=YevgeniyG
+  513  cd tmp
+  514  ls -la
+  515  vi myfirstbashscript.sh 
+  516  ./my
+  517  echo $USER
+  518  ./myfirstbashscript.sh 
+  519  vi myfirstbashscript.sh 
+  520  ./myfirstbashscript.sh 
+  521  pwd
+  522  cd /
+  523  cp /tmp/myfirstbashscript.sh /mnt/c/Users/GT
+  524  cp /tmp/myfirstbashscript.sh /mnt/c/Users/GT/myfirstbashscript.txt
+  525  history
+  526  git status
+  527  ls
+  528  cd repositories/
+  529  ls
+  530  git status
+  531  cd 111124-ptm/
+  532  git status
+  533  cd ..
+  534  cd git_intro/
+  535  ls -la
+  536  git log
+  537  git log --all --decorate --graph --oneline
+  538  history
+  539  watch git log --all --decorate --graph --oneline
+  540  ls
+  541  cd repositories/
+  542  ls
+  543  cd 11
+  544  cd 111124-ptm/
+  545  git branch
+  546  git status
+  547  git branch
+  548  git branch new_branch
+  549  git branch
+  550  git brnch new_branch2
+  551  git branch new_branch2
+  552  git branch
+  553  git branch -d new_branch2
+  554  git branch -a
+  555  git checkout -b new_branch3
+  556  git branch -a
+  557  git checkout main
+  558  git branch -a
+  559  git branch
+  560  git branch -a
+  561  ls
+  562  ls -la
+  563  git status
+  564  git checkout -t new_branch2
+  565  git checkout -b new_branch2
+  566  git branch
+  567  git branch -d new_branch2
+  568  git checkout new_branch
+  569  git branch
+  570  git branch -d new_branch2
+  571  git branch -a
+  572  git branch -d new_branch2
+  573  git checkout -b new_branch2
+  574  git push origin new_branch2
+  575  git checkout main
+  576  git branch -a
+  577  git checkout -t origin/new_branch2
+  578  git stash list
+  579  ls
+  580  cd repositories/
+  581  ls
+  582  git clone Создайте в Github новый репозиторий с именем git-branch
+  583  Инициализируйте локальный репозиторий с таким же именем
+  584  Создайте и переключитесь на новую ветку gitignore
+  585  Добавьте в проект .gitignore файл, как пример  https://github.com/aliaskov/bashscripts/blob/master/.gitignore 
+  586  Сделайте коммит и отправьте его с веткой gitignore в репозиторий git-branch
+  587  ls
+  588  git clone git@github.com:yevgt/git-branch.git
+  589  ls 
+  590  cd git-branch/
+  591  ls
+  592  ls -la
+  593  git checkout -b gitignore
+  594  ls
+  595  git status
+  596  git branch --list
+  597  git branch
+  598  curl O https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  599  git add .gitignore
+  600  ls -la
+  601  git status
+  602  git branch
+  603  git status
+  604  ls -la
+  605  cd ../
+  606  ls -la
+  607  cd git-branch
+  608  git status
+  609  cat .gitignor
+  610  ls -a
+  611  touch .gitignore
+  612  ls -la
+  613  git status
+  614  curl O https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  615  vi .gitignor
+  616  ls -la
+  617  vi .gitignore
+  618  git add .gitignore
+  619  git status
+  620  git commit -m "add file .gitignore"
+  621  git branch -M main
+  622  git status
+  623  git remote add origin git@github.com:yevgt/git-branch.git
+  624  git push -u origin gitignore
+  625  ls -la
+  626  git checkout gitignore
+  627  git checkout -b gitignore
+  628  git status
+  629  curl O https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  630  git add .gitignore
+  631  git status
+  632  git commit -m "add .gitignore file"
+  633  touch .gitignore
+  634  git status
+  635  la -la
+  636  git remote add origin git@github.com:yevgt/git-branch.git
+  637  git banch
+  638  git branch
+  639  git add .gitignore
+  640  git commit -m "Add .gitignore file"
+  641  git branch
+  642  git push -u origin gitignore
+  643  git status
+  644  ls -la
+  645  vi .gitignore 
+  646  git remote -v
+  647  git status
+  648  git log
+  649  git log --stat
+  650  git branches
+  651  git branch
+  652  git checkout main
+  653  git status
+  654  git log
+  655  git push -u origin main
+  656  git status
+  657  git log
+  658  git branch -a
+  659  cd ..
+  660  ls
+  661  rm -rf git-branch/
+  662  ls
+  663  git init git-branch
+  664  ls
+  665  cd git
+  666  cd git-branch/
+  667  git log
+  668  git status
+  669  git checkout -b gitignore
+  670  touch .gitignore
+  671  ls -la
+  672  vi .gitignore 
+  673  git status
+  674  git add .gitignore
+  675  git commit -m "add file .gitignore"
+  676  git branch
+  677  git log
+  678  git branch -a
+  679  git remote add origin git@github.com:yevgt/git-branch.git
+  680  git push -u origin gitignore
+  681  git status
+  682  git branch -a
+  683  git fetch --all
+  684  git checkout main
+  685  git log --all
+  686  git checkout gitignore 
+  687  git checkout -b test
+  688  git log
+  689  git branch
+  690  git branch -d test
+  691  git checkout gitignore 
+  692  git branch -d test
+  693  git status
+  694  cd ..
+  695  git init test
+  696  cd test
+  697  ls
+  698  git status
+  699  git push -u origin main
+  700  git branch -M main
+  701  git status
+  702  git remote add origin git@github.com:yevgt/test.git
+  703  git push -u origin main
+  704  git add README.md
+  705  git status
+  706  cd ..
+  707  ls
+  708  cd test
+  709  git branch
+  710  git log
+  711  echo "# test" >> README.md
+  712  git status
+  713  git add README.md 
+  714  git commit -m "first commit"
+  715  git remote add origin git@github.com:yevgt/test.git
+  716  git push -u origin main
+  717  git status
+  718  git log
+  719  git branch
+  720  git checkout main
+  721  git checkout -b gitignore
+  722  touch .gitignore
+  723  git branch
+  724  git log
+  725  curl -o .gitignore https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  726  git status
+  727  git add .gitignore
+  728  git commit -m "added file .ignore"
+  729  git log
+  730  git push -u gitignore
+  731  git remote add origin git@github.com:yevgt/test.git
+  732  git push -u gitignore
+  733  git branch
+  734  git log
+  735  git push -u origin gitignore
+  736  git status
+  737  git branch
+  738  git log list
+  739  git log --list
+  740  git status
+  741  git branch
+  742  cd ..
+  743  ls
+  744  tree
+  745  cd test
+  746  ls -la
+  747  cd ..
+  748  ls
+  749  mv test git-branch2
+  750  git status
+  751  ls 
+  752  cd git-branch2
+  753  ls
+  754  git rm README.md 
+  755  git push origin main
+  756  git remote add origin git@github.com:yevgt/git-branch2
+  757  git push origin main
+  758  git commit -m "del file README.md"
+  759  git push origin main
+  760  cd
+  761  ls
+  762  cd repositories/
+  763  ls
+  764  cd git-
+  765  cd git-branch
+  766  ls
+  767  ls -la
+  768  cd ..
+  769  git-branch2
+  770  cd git-branch2
+  771  ls -la
+  772  git log
+  773  git push -u origin gitignore
+  774  cd ..
+  775  cd git-branch
+  776  git branch
+  777  git log
+  778  git push -u origin gitignore
+  779  git checkout -b main
+  780  git push origin main
+  781  git status
+  782  git log
+  783  git branch
+  784  cd repositories/
+  785  ls
+  786  cd git-bran
+  787  cd git-branch
+  788  git fetch
+  789  git branch
+  790  cd ..
+  791  cd..
+  792  ls
+  793  cd ..
+  794  ls
+  795  git clone git@github.com:yevgt/LORD-of-rep.git
+  796  ls
+  797  cd LORD-of-rep/
+  798  git submodule add git@github.com:yevgt/ich-practice-.git
+  799  git submodule add git@github.com:yevgt/git-branch2.git
+  800  git submodule init
+  801  git submodule update
+  802  cd ..
+  803  ls
+  804  cd LORD-of-rep/
+  805  ls -la
+  806  git add.
+  807  git status
+  808  git add .
+  809  git commit -m "Добавлены субмодули"
+  810  git push origin main
+  811  history
+  812  git checkout main
+  813  git log
+  814  git fetch
+  815  git status
+  816  git submodule add https://github.com/yevgt/classwork.git
+  817  git submodule init
+  818  git submodule update
+  819  git push origin main
+  820  git submodule add git@github.com:yevgt/classwork.git
+  821  git status
+  822  git push origin main
+  823  git submodule add git@github.com:yevgt/classwork.git
+  824  git submodule add classwork
+  825  git submodule add git@github.com:yevgt/classwork.git
+  826  git submodule init 
+  827  git submodule update
+  828  git add .
+  829  git push origin main
+  830  git status
+  831  git log
+  832  git branch
+  833  git submodule init
+  834  git submodule update
+  835  git add .
+  836  git commit -m "New commit"
+  837  git push origin main
+  838  git branch -a
+  839  git push origin main
+  840  git branch -a
+  841  uptime
+  842  .ssh ich
+  843  . ssh ich
+  844  cd .ssh ich
+  845  ssh ich
+  846  git log
+  847  ls -la
+  848  cd repositories/
+  849  git log
+  850  ls -la
+  851  cd 111124-ptm/
+  852  git log
+  853  ls 
+  854  cd ..
+  855  ls 
+  856  git clone git@github.com:yevgt/new_repo_hw_12.git
+  857  ls -la
+  858  cd new_repo_hw_12/
+  859  ls -la
+  860  git status
+  861  ls -la
+  862  git checkout -b feature
+  863  ls -la
+  864  cd .git
+  865  ls -la
+  866  cd branches/
+  867  ls -la
+  868  git brabch
+  869  git branch
+  870  git status
+  871  git branch
+  872  git checkout feature
+  873  cd ..
+  874  git checkout feature
+  875  ls -la
+  876  touch README.md
+  877  ls -la
+  878  git add README.md
+  879  git commit -m "Добавлен файл в репо README.md"
+  880  git status
+  881  git log
+  882  vim .gitignore
+  883  git add .gitignore
+  884  git commit -m "Внесены изменения в файл .gitignore"
+  885  git push origin main
+  886  git status
+  887  git log
+  888  git branch
+  889  git push
+  890  git push origin feature
+  891  git checkout feature
+  892  git status
+  893  git commit --amend -m "Изменения в файлах README.md и .gitignore (amend)"
+  894  git commit --amend -m "Внесены изменения в файл .gitignore # amend"
+  895  git checkout main
+  896  git merge feature
+  897  git push origin main
+  898  git status
+  899  git log
+  900  history > history.txt
